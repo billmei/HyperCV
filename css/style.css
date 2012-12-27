@@ -1,0 +1,61 @@
+body{
+	font-size: 11pt;
+	width: 612pt;
+	margin: 5px auto;
+	padding: 10px;
+	border: #000000 1px solid;
+	font-family: Helvetica, Arial, sans-serif
+}
+	
+h1 {
+	font-size: 12pt;
+	margin: 0;
+	padding: 0;
+}	
+	
+h2 {
+	font-size:1 1pt;
+	border-bottom: #000000 1px solid;
+}
+
+h3 {
+	font-size: 11pt;
+	margin: 0px;
+}
+
+.header {
+	text-align: center;
+}
+
+.contact {
+	display: inline;
+}
+
+.test {
+	font-size: 50px;
+}
+
+.pullout {
+	display: none;
+}
+
+.pullout-button{
+	
+}
+
+.location{
+	float: right;
+}
+
+.date {
+	float: right;
+}
+
+#email {
+	float: left;
+}
+
+#telephone {
+	float: right;
+}
+
