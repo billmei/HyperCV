@@ -1,3 +1,10 @@
+
+
 $(".pullout-button").on("click",function(){
-	$(".pullout").show("fast")
+
+	$(".pullout").animate({
+		display: block,
+	})
 })
+
+

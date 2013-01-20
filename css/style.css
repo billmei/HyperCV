@@ -4,7 +4,7 @@ body{
 	margin: 5px auto;
 	padding: 10px;
 	border: #000000 1px solid;
-	font-family: Helvetica, Arial, sans-serif
+	font-family: Helvetica, Arial, sans-serif;
 }
 	
 h1 {
@@ -37,6 +37,7 @@ h3 {
 
 .pullout {
 	display: none;
+	border: #000000 2px solid;
 }
 
 .pullout-button{
